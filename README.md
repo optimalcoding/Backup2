@@ -1,3 +1,5 @@
+Backup of the same Android Studio Code File for FTC Decode 
+Reason: Config issues with the previous repository created strange robot behavior
 
 ## NOTICE
 
